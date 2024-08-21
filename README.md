@@ -1,8 +1,8 @@
-Name: RAHUL KUMAR JHA
-Company: CODTECH IT SOLUTIONS PVT.LTD
-ID: CT08DS6970
-Domain: CYBER SECURITY&ETHICAL HACKING
-Duration :AUGUST 25th, 2024 to SEPTEMBER 25th, 2024.
+Name: RAHUL KUMAR JHA 
+Company: CODTECH IT SOLUTIONS PVT.LTD 
+ID: CT08DS6970 
+Domain: CYBER SECURITY&ETHICAL HACKING 
+Duration :AUGUST 25th, 2024 to SEPTEMBER 25th, 2024. 
 
 ----------------------OverView Of Project-----------------------------
 
@@ -58,6 +58,9 @@ Wallet Security: Hands-on secure integration of wallets, with an eye toward prop
 ------------------------------Technology Used-----------------------------------
  **Python 
 
+
+ ---------------------------------Output-------------------------
+ Need to past the Etherium url
 
 
 
