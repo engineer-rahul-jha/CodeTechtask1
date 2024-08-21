@@ -6,6 +6,8 @@ Duration :AUGUST 25th, 2024 to SEPTEMBER 25th, 2024.
 Mentor : Neela Santhosh Kumar
 
 ----------------------OverView Of Project-----------------------------
+Project : BLOCKCHAIN SECURITY AUDIT
+Object :  Etherium API
 
 A Blockchain Security Audit involves a line-by-line review of a blockchain network, smart contracts, and associated infrastructure in search of vulnerabilities and several attack vectors. Since the blockchain systems primarily have to deal with valuable data and assets, their security is literally crucial. It checks the integrity, confidentiality, and availability of blockchain while assuring smart contract functionality without introducing exploitable flaws.
 
