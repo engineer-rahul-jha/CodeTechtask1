@@ -39,7 +39,7 @@ User wallets and private keys act as the gateway to blockchain assets. A securit
 5. Cryptographic Algorithms
 Blockchains employ cryptographic algorithms for transaction and data security. The audits examine the strength of the implementations of the above cryptographic aspects and how these are enforced. Specifically, they are as follows: 
 
-----------------------------------------------KeyActivity-----------------------------------
+----------------------------------------------KeyActivity-----------------------------------                                                           
 
 A blockchain security audit is a thorough checkup of blockchain architecture, smart contracts, and system security to detect vulnerabilities and possible attacks. Here are the key activities that will be included in a typical blockchain security audit:
 1. Pre-audit planning
@@ -58,7 +58,7 @@ Use of Consensus Vulnerabilities. Example: A Block-withholding attack.
 Node Configuration: Auditing the configuration of blockchain nodes to make sure it is secured (firewall rules, proper measures of authentication, SSL/TLS).
 Wallet Security: Hands-on secure integration of wallets, with an eye toward proper management of the private keys .
 
-------------------------------Technology Used-----------------------------------
+------------------------------Technology Used-----------------------------------                                
  **Python 
 
 
